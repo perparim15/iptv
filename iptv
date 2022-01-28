@@ -1,7 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1,------| ALBANIA |------
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/114667
 #EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 1
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33483
 #EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 2
@@ -600,6 +598,12 @@ http://mag.d60.co:2082/buzz_268444/MDmaKynE/33504
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33510
 
 
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote,|ALB| Austria
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643404820/ei/tAn0YYXbF9qD8gOztI7oCg/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/1Sda7Suah4c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANCwEJuL2yaJ0obWwvQFx69KWBNpRc6_VbnZhWzDdhgyAiEAgt5ngCsAemb66brrzbXqmGPamLbIWKRk6QcNUITA0sI%3D/file/index.m3u8
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote,|ALB| Kroacia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643404993/ei/YQr0YYnTD4-C6dsP98q80AU/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/pkn1g_aUPqQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMbkkyGv_GOp8ZcYRvVCrBh-5_iL0_G3RozODi4q1njCAiBSxFhAcVTlHgDPhb5SLKrfBHQZ_CqdGDwUV5LYjfmPDg%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote,|ALB| Hungaria
+https://manifest.googlevideo.com/api/manifest/dash/expire/1643405136/ei/7wr0YaXSOKqG6dsP8ImyuA8/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/IELAhyaUKVk.3/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCeASGpk9fTWjDrCCFPTQLnSlb-5SDGDlJv5t7Wo04tACIEHAcUaSaaNX-fR6TJceLYo7F1ks-QokZ33-phc5PRpr","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643405136/ei/7wr0YaXSOKqG6dsP8ImyuA8/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/IELAhyaUKVk.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKIYoY6iAYU0UUUsx8ponh4rG2eykvWLZhDeoG1kR9PxAiAGI81fKWdgbUQi-XRAL7QGuoZeDKU5kscfJ8q2NmAGRw%3D%3D/file/index.m3u8
 
 
 
