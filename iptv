@@ -60,9 +60,6 @@ http://mag.d60.co:2082/buzz_268444/MDmaKynE/171196
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/171197
 
 #EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| 
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171197
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Alb Action HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33408
 #EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Alb Thriller HD
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33412
 #EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| ART Doku 1 HD
@@ -576,6 +573,8 @@ http://mag.d60.co:2082/buzz_268444/MDmaKynE/33467
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33468
 #EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| RTSH Muzike
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33488
+#EXTINF:-1  group-title="✳️ Live:Muzik",|ALB| Alb Action HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/33408
 #EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| RTV21 Popullore
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33480
 #EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Sky Music HD
