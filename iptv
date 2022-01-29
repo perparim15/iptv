@@ -598,14 +598,30 @@ http://mag.d60.co:2082/buzz_268444/MDmaKynE/33504
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33510
 
 
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643404820/ei/tAn0YYXbF9qD8gOztI7oCg/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/1Sda7Suah4c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANCwEJuL2yaJ0obWwvQFx69KWBNpRc6_VbnZhWzDdhgyAiEAgt5ngCsAemb66brrzbXqmGPamLbIWKRk6QcNUITA0sI%3D/file/index.m3u8
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Kroacia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643404993/ei/YQr0YYnTD4-C6dsP98q80AU/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/pkn1g_aUPqQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMbkkyGv_GOp8ZcYRvVCrBh-5_iL0_G3RozODi4q1njCAiBSxFhAcVTlHgDPhb5SLKrfBHQZ_CqdGDwUV5LYjfmPDg%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Hungaria
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643405136/ei/7wr0YaXSOKqG6dsP8ImyuA8/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Ae96e%3Abb2d%3A4e6a%3A4667/id/IELAhyaUKVk.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKIYoY6iAYU0UUUsx8ponh4rG2eykvWLZhDeoG1kR9PxAiAGI81fKWdgbUQi-XRAL7QGuoZeDKU5kscfJ8q2NmAGRw%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Gjermania
-https://streamable.com/mvj4b4
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria /Redstadt 
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria / Kufstein 
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria / Südtirol
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria / Ebbs
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Kroacia / Rogoznica 
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Kroacia / Split
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Gjermania / Cologne
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Gjermania / Baden-Baden
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Franca / Paris
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Zvicer / Wengen
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Zvicer / Silvaplana
+https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+
+
 
 
 
