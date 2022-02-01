@@ -1,7 +1,9 @@
 
 #EXTM3U
-#EXTINF:-1 ,|ALB| Pipo
+#EXTINF:-1 ,|ALB| Pipo CAMERA
 https://stream-5gw.1000eyes.de/cupertino/doF4F2A4.stream/chunklist_w1752917909.m3u8
+#EXTINF:-1 ,|ALB| Pipo CAMERA
+https://5ee71ff03d9d1.streamlock.net:4444/EPGD/ppsy.stream/chunklist_w21864554.m3u8
 #EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 1
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/33483
 #EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 2
