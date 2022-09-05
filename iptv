@@ -1,635 +1,924 @@
-
 #EXTM3U
-#EXTINF:-1 ,|ALB| Pipo CAMERA
-https://stream-5gw.1000eyes.de/cupertino/doF4F2A4.stream/chunklist_w1752917909.m3u8
-#EXTINF:-1 ,|ALB| Pipo CAMERA
-https://5ee71ff03d9d1.streamlock.net:4444/EPGD/ppsy.stream/chunklist_w21864554.m3u8
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 1
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33483
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33484
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33485
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTK 4
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33486
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| Klan Kosova FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33454
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| Klan Kosova Toksor
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33455
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| TOP Channel FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33490
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| Klan Plus FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33456
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| Klan TV FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33453
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| KTV HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33461
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| KTV Toksor
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33460
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| ATV HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/139625
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| KANAL 10
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/139626
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| Dukagjini FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33426
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTV21 Toksor FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33481
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| ALSAT M HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/139627
-#EXTINF:-1,|ALB| Vizion Plus HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33537
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| A1 Report
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33405
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| A1 Shqiptare
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33406
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| ABC News
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33407
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| Rrokum TV
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33451
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTSH 24 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/139639
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTSH 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/139636
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| RTSH 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33482
-#EXTINF:-1  group-title="✳️ Live: Kombetare & Lajme",|ALB| RTSH 3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33450
-#EXTINF:-1 group-title="✳️ Live: Kombetare & Lajme",|ALB| TOP Channel FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33490
-#EXTINF:-1  group-title="✳️ Live: Kombetare & Lajme",|AL| BIG BROTHER VIP 1 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171196
-#EXTINF:-1  group-title="✳️ Live: Kombetare & Lajme",|AL| BIG BROTHER VIP 2 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171197
+#EXTINF:0 tvg-id="AlsatM.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ALSAT M
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0NiIsImlkIjo1OTQ4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TopChannel.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TOP CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMxMSIsImlkIjo0NTc3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="KlanTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV KLAN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg1MyIsImlkIjo0NjA4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KLAN KOSOVA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU2MSIsImlkIjo0NDgyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ERA.mk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ERA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM4NjQiLCJpZCI6NDQzM30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KLAN MACEDONIA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2NTU1IiwiaWQiOjQ0ODN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KLAN PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU2MiIsImlkIjo0NDg2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV2 GOSTIVAR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY5ODQyIiwiaWQiOjQ2MTZ9/fast
+#EXTINF:0 tvg-id="tv21" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV 21
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vODIuMTE0LjcwLjIyNzo4ODgxL3BsYXkvYTAwOC9pbmRleC5tM3U4IiwiaWQiOjg5OTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV 21 MACEDONIA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0NzkiLCJpZCI6NTk5N30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV USKANA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0MjEiLCJpZCI6NDYxNX0%3D/fast
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",VIZION PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI5OSIsImlkIjo0NjE4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",21 MIX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vODIuMTE0LjcwLjIyNzo4ODgxL3BsYXkvYTAydi9pbmRleC5tM3U4IiwiaWQiOjg5OTF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",21 PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vODIuMTE0LjcwLjIyNzo4ODgxL3BsYXkvYTAxaS9pbmRleC5tM3U4IiwiaWQiOjg5OTJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ALPO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc4NTI4IiwiaWQiOjQzNzZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",APOLLON TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY3MDM3IiwiaWQiOjQzNzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ATD TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc4NTMxIiwiaWQiOjQzOTZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",BESA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA0MiIsImlkIjo0NDAxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",BOIN TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1MjAiLCJpZCI6NDQwM30%3D/fast
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",FREESPORTS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTk3MDY4IiwiaWQiOjQ0Njh9/fast
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",HBO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYxNTUiLCJpZCI6NDQ3MX0%3D/fast
+#EXTINF:0 tvg-id="HBO2.cz" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",HBO 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYxNjEiLCJpZCI6NDQ3Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ISTOGU CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDEzMDUiLCJpZCI6NDQ3Nn0%3D/fast
+#EXTINF:0 tvg-id="Kanali7.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KANALI 7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA2MiIsImlkIjo0NDgxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KLAN MACEDONIA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTIzOTUiLCJpZCI6NTk3MX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KLAN PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vODIuMTE0LjcwLjIyNzo4ODgxL3BsYXkvYTA3eS9pbmRleC5tM3U4IiwiaWQiOjg5ODl9/fast
+#EXTINF:0 tvg-id="KlanTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KLAN TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vODIuMTE0LjcwLjIyNzo4ODgxL3BsYXkvYTA3eC9pbmRleC5tM3U4IiwiaWQiOjg5OTN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KOHA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDExNSIsImlkIjo0NDg3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="KTV.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",KTV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vODIuMTE0LjcwLjIyNzo4ODgxL3BsYXkvYTAwOS9pbmRleC5tM3U4IiwiaWQiOjg5ODh9/fast
+#EXTINF:0 tvg-id="on-tv-259" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ON TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0NDAiLCJpZCI6NDUwNX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ORA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTYzMTA0IiwiaWQiOjQ1MDZ9/fast
+#EXTINF:0 tvg-id="PlusTV.pe" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",PLUS TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc4MTY2IiwiaWQiOjQ1MTN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",PREMIUM CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3ODAiLCJpZCI6NDUxNn0%3D/fast
+#EXTINF:0 tvg-id="RTK.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTK 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vMTg1LjE2NC4zNS42OjI1NDYxL2hvZ2FyNTU2Ni9xN3p6aUwwbVNnLzE4NjYiLCJpZCI6ODk5NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTK 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vMTg1LjE2NC4zNS42OjI1NDYxL2hvZ2FyNTU2Ni9xN3p6aUwwbVNnLzE4NjgiLCJpZCI6ODk5Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTK 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vMTg1LjE2NC4zNS42OjI1NDYxL2hvZ2FyNTU2Ni9xN3p6aUwwbVNnLzE4NjkiLCJpZCI6ODk5N30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDEyMyIsImlkIjo0NTIwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg1NCIsImlkIjo0NTIxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg1NSIsImlkIjo0NTIyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH AGRO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTkzNzE3IiwiaWQiOjQ1MjR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH GJIROKASTRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3MDAiLCJpZCI6NDUyN30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH KORCA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3MDgiLCJpZCI6NDUyOH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH KUKESI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTk4NjYzIiwiaWQiOjQ1Mjl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY5ODMxIiwiaWQiOjQ1MzJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH SATELIT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgyMzAxIiwiaWQiOjQ1MzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH SHKODRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg0NzQyIiwiaWQiOjQ1MzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTSH SHQIP
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTE0MyIsImlkIjo0NTM2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTV DUKAGJINI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjcwOCIsImlkIjo0NTQwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",RTV HERCEG BOSNE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk0ODY5IiwiaWQiOjQ1NDJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SCAN TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3MzUiLCJpZCI6NDU0Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SHENJA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0MTQiLCJpZCI6NDU0N30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SKY 7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1NTEiLCJpZCI6NDU0OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SPIN TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjcxNCIsImlkIjo0NTU3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",STAR PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0MjgiLCJpZCI6NDU1OH0%3D/fast
+#EXTINF:0 tvg-id="SyriTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SYRI TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA5OSIsImlkIjo0NTY4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SYRI VIZION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTIwNzkyIiwiaWQiOjQ1Njl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",T7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxODUxIiwiaWQiOjQ1NzF9/fast
+#EXTINF:0 tvg-id="T.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",T CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDEwMSIsImlkIjo0NTcwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="TemaTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TEMA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvbGl2ZS9Ib3VuZ3N0MjAwMDEvUUUwMkE4UjhXVjRYSEszQi80MTAyLm0zdTgiLCJpZCI6ODk5OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TEUTA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY5ODgyIiwiaWQiOjQ1NzJ9/fast
+#EXTINF:0 tvg-id="travel" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TRAVEL CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTEyMSIsImlkIjo0NTgwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV 7 ALBANIA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjc2MiIsImlkIjo0NjA0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV DIELLI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0MTgiLCJpZCI6NDYwNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV GOLD JOHANITER
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MDkzIiwiaWQiOjQ2MDd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV KOPLIKU
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTczNDU4IiwiaWQiOjQ2MDl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV MITROVICA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDExOCIsImlkIjo0NjEwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV PRESHEVA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgwMTYwIiwiaWQiOjQ2MTJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",TV TEMA FERIZAJ
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTk2MzQ1IiwiaWQiOjQ2MTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",ULQINI TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc4NTgyIiwiaWQiOjQ2MTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KOMBETARE🇦🇱",SARANDA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxNDA0JmV4dGVuc2lvbj10cyIsImlkIjo5MTQzfQ%3D%3D/fast
 
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| 
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Alb Thriller HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33412
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| ART Doku 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62720
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| ART Doku 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62721
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| ART Kino 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62726
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| ART Kino 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62727
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Comedy Central Extra
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62725
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Film Aksion FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33433
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Film Autor
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33432
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Film Box Extra HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33431
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip" ,|ALB| Film Drame
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33435
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip" ,|ALB| Film DY HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33434
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip" ,|ALB| Film Hits FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33437
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip,|ALB| Film Nje HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33438
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Film Thriller
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33436
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip" ,|ALB| Fox Crime
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33443
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Fox Movies
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33445
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Fox Life
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33444
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring 3+
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33493
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Comedy
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33494
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Fantasy
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33495
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Jolly FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33497
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Life
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33498
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Shqip
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33501
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Smile
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33503
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|ALB| Tring Super FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33502
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky Aksion
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33524
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky AL Aksion
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62687
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky AL Drame
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62689
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky AL Komedi
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62688
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky AL Max
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62686
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky Dramë
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33525
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky Komedi
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33526
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| Sky Novela
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33528
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| X Family HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62681
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| X Western HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62685
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| KiKi Music - Top Hits HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185408
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Adventure FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142065
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Aktion FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142066
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Comedy FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142067
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Drama FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142068
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Gold FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142074
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Romance FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142072
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Sci-Fi FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142073
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  Falcon Cinema Thriller FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142071
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  MAX premier 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142059
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  MAX premier 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142060
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  MAX premier 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142061
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  MAX premier 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142062
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB|  LionTV Gold 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142063
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|ALB| LionTV Gold 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/142064
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| EURO FILM 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156653
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| EURO FILM HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156649
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FAMILY HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156654
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 ACTION 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156673
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 ANIMUAR 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156674
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 AVENTUR 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156675
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 BIOGRAFI 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156676
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 DRAMA 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156677
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 FAMILJAR 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156678
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 FANTASY 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156679
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip" ,|AL| FILMA24 HISTORI 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156680
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 KOMEDI 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156681
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 KRIM 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156682
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 MISTER 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156683
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 NETFLIX 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156684
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 NETFLIX 24 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156685
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 ROMANCE 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156686
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| FILMA24 THRILLER 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156687
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Q  PREMIUM 1 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156692
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip" ,|AL| Q  PREMIUM 2 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156693
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Q  PREMIUM 3 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156694
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Q  PREMIUM 4 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156695
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| TELE ONE 1
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156697
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| TELE ONE 2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156698
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| TELE ONE 3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156699
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| TELE ONE 4
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156700
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| TELE ONE 5
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156701
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| TELE ONE 6
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156702
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Dark Aksion HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170710
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Aventure HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170718
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark ChuChu TV HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170737
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Donald Duck HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170735
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Drame HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170717
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Familjare HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170719
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Fantazi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170714
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Fara e Flliqt HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170725
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Francez HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170721
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gjerman HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170720
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170702
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170703
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170704
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170705
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170706
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 6 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170707
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 7 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170708
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Gold 8 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170709
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Hindi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170729
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Horror HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170715
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark iStar Seriali HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170726
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark ITALY HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170722
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip" ,|AL| Dark Komedi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170713
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark kongkong's (Kid's) HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170739
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Larva Spring (Kids) HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170738
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Mr Bean Cartoon HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170733
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170754
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170755
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170756
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170757
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170758
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 6 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170759
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 7 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170760
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 8 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170761
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 9 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170762
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 10 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170763
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 11 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170764
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix 12 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170765
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Netflix HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170730
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  8ova Action HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171934
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  8ova Drame HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171935
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  8ova Komedi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171936
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  8ova Thriller HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171937
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Aksion
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171938
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Aventure
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171942
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Bud Spencer & Terence Hill
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171952
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Dwayne Johnson
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171950
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Epik
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171945
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Fantazi
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171939
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Femije
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171944
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Horror
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171941
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Jackie Chan
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171948
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Komedi
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171940
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Relaks FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171946
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Romance
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171943
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Spider-Man
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171947
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Sylvester Stallone
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171951
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL|  Netflix Van Damme
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/171949
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Peralla HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170736
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Pink Panther HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170734
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Premier Kids HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170731
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark RUS HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170727
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Sci-Fi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170712
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Shpk Nazi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170724
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Spanjolle HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170728
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Thriller HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170711
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Tom & Jerry HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170732
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Turke HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170723
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Dark Western HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170716
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Kinema24 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170699
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Kinema24 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170700
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Kinema24 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170696
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Kinema24 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170697
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Kinema24 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170698
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| KS Filma24 Famiy
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170701
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Tele One 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170766
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Tele One 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170767
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Tele One 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170768
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Tele One 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170769
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| Tele One 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170770
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| Tele One 6 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/170771
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",8OVA ACTION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYzNzY0IiwiaWQiOjQzNjF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",8OVA DRAME
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYzNzY2IiwiaWQiOjQzNjN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",8OVA KOMEDI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYzNzY3IiwiaWQiOjQzNjZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",8OVA THRILLER
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYzNzY1IiwiaWQiOjQzNjd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",ART KINO 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ2MDg0IiwiaWQiOjQzODV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",ART KINO 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ2MDg1IiwiaWQiOjQzODZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",ART KINO 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ2MDg2IiwiaWQiOjQzODd9/fast
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",CINEMA 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTUyIiwiaWQiOjQ0MDZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",CINEMA 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTUxIiwiaWQiOjQ0MDd9/fast
+#EXTINF:0 tvg-id="SkyCinemaMax.it" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",CINEMA MAX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY5ODU3IiwiaWQiOjQ0MDh9/fast
+#EXTINF:0 tvg-id="Cinemax2.ro" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",CINEMAX 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk0NDQzIiwiaWQiOjQ0MDl9/fast
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",COMEDY CENTRAL EXTRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTEyIiwiaWQiOjQ0MTJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK AKSION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjcyIiwiaWQiOjkwNTh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK AVENTURE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjc1IiwiaWQiOjkwNjB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjY0IiwiaWQiOjkwNTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjY1IiwiaWQiOjkwNTF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjY2IiwiaWQiOjkwNTJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjY3IiwiaWQiOjkwNTN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjY4IiwiaWQiOjkwNTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjY5IiwiaWQiOjkwNTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjcwIiwiaWQiOjkwNTZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK GOLD 8
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjcxIiwiaWQiOjkwNTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK HINDI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY2NDE5IiwiaWQiOjQ0MTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK NETFLIX 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjk1IiwiaWQiOjkwNzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK NETFLIX 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjk2IiwiaWQiOjkwNzV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK NETFLIX 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjk3IiwiaWQiOjkwNzZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK NETFLIX 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjk4IiwiaWQiOjkwNzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK NETFLIX 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjk5IiwiaWQiOjkwNzh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK NETFLIX 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzAwIiwiaWQiOjkwNzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK PRIME 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjgxIiwiaWQiOjkwNjJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK PRIME 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjgyIiwiaWQiOjkwNjN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK PRIME 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjgzIiwiaWQiOjkwNjR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK PRIME 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjg0IiwiaWQiOjkwNjV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK ROMANCE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU3NDA5IiwiaWQiOjQ0MjB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK THRILLER
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjczIiwiaWQiOjkwNTl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",DARK TURKE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjc2IiwiaWQiOjkwNjF9/fast
+#EXTINF:0 tvg-id="FilmArts.ar" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM & ARTS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg1MTQ4IiwiaWQiOjQ0NDV9/fast
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM AKSION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU1OCIsImlkIjo0NDQ2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM AUTOR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMzMyIsImlkIjo0NDQ3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM DRAME
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMzMiIsImlkIjo0NDQ4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="DigiGold.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM GOLD
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgzMjEyIiwiaWQiOjQ0NDl9/fast
+#EXTINF:0 tvg-id="FilmHits.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM HITS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMzMCIsImlkIjo0NDUwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM KOMEDI TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMyOSIsImlkIjo0NDUxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM MAX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMzMSIsImlkIjo0NDUyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM STINET
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA5NiIsImlkIjo0NDUzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILM THRILLER
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMyOCIsImlkIjo0NDU0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="film-box-arthouse" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILMBOX ARTHOUSE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ1ODk1IiwiaWQiOjQ0NTd9/fast
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILMBOX EXTRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ1ODk2IiwiaWQiOjQ0NTh9/fast
+#EXTINF:0 tvg-id="FilmboxPremium.cz" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FILMBOX PREMIUM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ1ODk0IiwiaWQiOjQ0NTl9/fast
+#EXTINF:0 tvg-id="fox-crime" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FOX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTEzMyIsImlkIjo0NDYzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="fox-crime" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FOX CRIME
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA1NSIsImlkIjo0NDY0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="fox-life" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FOX LIFE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTEzMiIsImlkIjo0NDY1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",FOX MOVIES
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA1NiIsImlkIjo0NDY2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="Kanal10.se" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KANAL 10
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTk4ODQwIiwiaWQiOjQ0Nzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KANAL D DRAMA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYxODIiLCJpZCI6NDQ4MH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KINEMA MAX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjU2IiwiaWQiOjkwNDJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KINEMA MILENIUM 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjYyIiwiaWQiOjkwNDh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KINEMA MILENIUM 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjYzIiwiaWQiOjkwNDl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KINEMA MILENIUM 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjYwIiwiaWQiOjkwNDZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KINEMA MILENIUM 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjYxIiwiaWQiOjkwNDd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS COMEDY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjg2IiwiaWQiOjkwNjd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 ANIMACION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjkyIiwiaWQiOjkwNzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 DRAME
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjkwIiwiaWQiOjkwNzF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 FAMIY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjg1IiwiaWQiOjkwNjZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 HINDI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjkxIiwiaWQiOjkwNzJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 HORROR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjg4IiwiaWQiOjkwNjl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 SCI-FI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjg3IiwiaWQiOjkwNjh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS FILMA24 WESTERN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjg5IiwiaWQiOjkwNzB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAX PREMIER 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjQ1IiwiaWQiOjkwMzF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAX PREMIER 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjQ2IiwiaWQiOjkwMzJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAX PREMIER 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjQ3IiwiaWQiOjkwMzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAX PREMIER 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjQ4IiwiaWQiOjkwMzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAXCINE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjUwIiwiaWQiOjkwMzZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAXELITE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjU5IiwiaWQiOjkwNDV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAXENERGI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjU3IiwiaWQiOjkwNDN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAXONE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjUxIiwiaWQiOjkwMzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAXRED
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjQ5IiwiaWQiOjkwMzV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",MAXSTAR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjU4IiwiaWQiOjkwNDR9/fast
+#EXTINF:0 tvg-id="NovelaTV.pl" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NOVELA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MjIwIiwiaWQiOjQ1MDR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",RTSH FILM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTE0NSIsImlkIjo0NTI2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",SKY AKSION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTE1IiwiaWQiOjQ1NDl9/fast
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",SKY COMEDY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTE2IiwiaWQiOjQ1NTB9/fast
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",SKY DRAMA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTE3IiwiaWQiOjQ1NTF9/fast
+#EXTINF:0 tvg-id="SkyMax.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",SKY MAX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYxMjciLCJpZCI6NDU1Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",SKY NOVELA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY0OTYiLCJpZCI6NDU1M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",SKY STAR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTIwODE4IiwiaWQiOjQ1NTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TELE ONE 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzA5IiwiaWQiOjkwODd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TELE ONE 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzEwIiwiaWQiOjkwODh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TELE ONE 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzExIiwiaWQiOjkwODl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TELE ONE 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzEyIiwiaWQiOjkwOTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TELE ONE 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzEzIiwiaWQiOjkwOTF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TELE ONE 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMzE0IiwiaWQiOjkwOTJ9/fast
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TNT SERIES
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg1MTQwIiwiaWQiOjQ1NzV9/fast
+#EXTINF:0 tvg-id="3Plus.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING 3 PLUS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDEwNSIsImlkIjo0NTgxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING ACTION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwOCIsImlkIjo0NTgyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING CLASSIC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwNTE2IiwiaWQiOjQ1ODN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING COLLECTION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTI4IiwiaWQiOjQ1ODR9/fast
+#EXTINF:0 tvg-id="TringComedy.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING COMEDY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMxMCIsImlkIjo0NTg1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING FAMILY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA2MyIsImlkIjo0NTg2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING FANTASY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU3NyIsImlkIjo0NTg3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TringLife.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING LIFE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwOSIsImlkIjo0NTkwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING NOVELAS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3NTQiLCJpZCI6NDU5MX0%3D/fast
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING SHQIP
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwNyIsImlkIjo0NTkzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="Smile.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING SMILE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMyMiIsImlkIjo0NTk0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TringSuper.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",TRING SUPER
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwMyIsImlkIjo0NjAwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",X DRAMA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjUyIiwiaWQiOjkwMzh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",X FAMILY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjUzIiwiaWQiOjkwMzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",X FILMA 24
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjU0IiwiaWQiOjkwNDB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",X PREMIERE 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0NTciLCJpZCI6NDYyMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",X PREMIERE 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA1MzUiLCJpZCI6NDYyMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",X PREMIERE 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvbGl2ZS9Ib3VuZ3N0MjAwMDEvUUUwMkE4UjhXVjRYSEszQi84NDEzMy5tM3U4IiwiaWQiOjg5OTl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX VAN DAMME
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzMzJmV4dGVuc2lvbj10cyIsImlkIjo5MTQ2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX SYLVESTER STALONE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzMyJmV4dGVuc2lvbj10cyIsImlkIjo5MTQ3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX SPIDER MANN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzMxJmV4dGVuc2lvbj10cyIsImlkIjo5MTQ4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX ROMANCE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzMwJmV4dGVuc2lvbj10cyIsImlkIjo5MTQ5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX KOMEDI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzI4JmV4dGVuc2lvbj10cyIsImlkIjo5MTUxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX JACKIE CHAN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzI3JmV4dGVuc2lvbj10cyIsImlkIjo5MTUyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLX HORROR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzI2JmV4dGVuc2lvbj10cyIsImlkIjo5MTUzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX FANTAZI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzI0JmV4dGVuc2lvbj10cyIsImlkIjo5MTU1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX EPIK
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzIzJmV4dGVuc2lvbj10cyIsImlkIjo5MTU2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX DWAYNE JOHNSON
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzIyJmV4dGVuc2lvbj10cyIsImlkIjo5MTU3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX BUD SPENCER
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzIxJmV4dGVuc2lvbj10cyIsImlkIjo5MTU4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",NETFLIX AVENTURE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzIwJmV4dGVuc2lvbj10cyIsImlkIjo5MTU5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS SHQIP KINEMA 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjgxJmV4dGVuc2lvbj10cyIsImlkIjo5MTY1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱KINO SHQIP🇦🇱",KS SHQIP KINEMA 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjgyJmV4dGVuc2lvbj10cyIsImlkIjo5MTY2fQ%3D%3D/fast
 
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",8OVA CIFTELI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0NjQiLCJpZCI6NDM2Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ALB MUSIC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDQ5OTQiLCJpZCI6NDM3Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ALB SWISS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0MzciLCJpZCI6NDM3M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ALBKANALE MUZIK
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1ODU4IiwiaWQiOjQzNzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",AMOL TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxMzg3IiwiaWQiOjQzNzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ARTI TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc4NTI5IiwiaWQiOjQzOTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ASHKALI TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTkzNzY5IiwiaWQiOjQzOTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",B MUZIKE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg4MjQ3IiwiaWQiOjQzOTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",BBF MUSIC TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA0MSIsImlkIjo0NDAwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",BLUE SKY TV MUSIC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgwMTE3IiwiaWQiOjQ0MDJ9/fast
+#EXTINF:0 tvg-id="CityTV.bg" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",CITY TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxODk5IiwiaWQiOjQ0MTB9/fast
+#EXTINF:0 tvg-id="ClickTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",CLICK
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY0NDciLCJpZCI6NDQxMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DARK BALADE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY2NDA5IiwiaWQiOjQ0MTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DARK POPULLORE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjgwIiwiaWQiOjkwOTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DARK POPULLORE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTMzIiwiaWQiOjQ0MTl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DARK TALLAVA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjc0IiwiaWQiOjkwOTN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DARK TALLAVA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTM2IiwiaWQiOjQ0MjJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DASMA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvODI4OCIsImlkIjo0NDIzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",DRITA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDEzMTgiLCJpZCI6NDQzMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ELRODI TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU1NyIsImlkIjo0NDMyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",FLUTRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgwMTQyIiwiaWQiOjQ0NjB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",FOLK+
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA1MyIsImlkIjo0NDYxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",FOLKLORIT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc4MTkyIiwiaWQiOjQ0NjJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",FRAME TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxOTY3IiwiaWQiOjQ0Njd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",HS TALLAVA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjcxNSIsImlkIjo0NDczfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",I LOVE TROPOJA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY2NjU3IiwiaWQiOjQ0NzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",KLAN MUSIC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTAzIiwiaWQiOjQ0ODR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",MALISHEVA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTk4NDUwIiwiaWQiOjQ0OTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",MFM MUSIC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDUwMTkiLCJpZCI6NDQ5Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",MTV KOSOVA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY0ODMiLCJpZCI6NDQ5OH0%3D/fast
+#EXTINF:0 tvg-id="MyMusic.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",MY MUSIC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTcxODk1IiwiaWQiOjQ1MDB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",NESER TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwNDU1IiwiaWQiOjQ1MDN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",PODUJEVA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTI5IiwiaWQiOjQ1MTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",POLLOGU
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY0ODM2IiwiaWQiOjQ1MTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",RTSH MUZIKE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTE0NCIsImlkIjo0NTMxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",RTV FONTANA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgyMDA2IiwiaWQiOjQ1NDF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",RTV ILIRIDA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg0NzQzIiwiaWQiOjQ1NDN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",S TV FOLK
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMzAxNzgiLCJpZCI6NDU0NX0%3D/fast
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",SUPER SONIC TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA5OCIsImlkIjo0NTU5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TOP ESTRADA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvODUyNTgiLCJpZCI6NTk5NH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TOP ESTRADA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY1MDIiLCJpZCI6NDU3OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TURBO CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjcxNyIsImlkIjo0NjAzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TV DIASPORA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxMzUwIiwiaWQiOjQ2MDV9/fast
+#EXTINF:0 tvg-id="opoja.tv" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TV OPOJA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDExOSIsImlkIjo0NjExfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TV SHARRI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTI0MTYiLCJpZCI6NDYxM30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",WEBSTAR MUZIK
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vcGxhdGludW14bWVkaWEueHl6OjgwODAvZ2VuaXB0dnNlcnZpY2UvNEVZUVljd01VNi85Mjg4OCIsImlkIjo5MDI1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",WEBSTAR POPULLORE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vcGxhdGludW14bWVkaWEueHl6OjgwODAvZ2VuaXB0dnNlcnZpY2UvNEVZUVljd01VNi85Mjg4MiIsImlkIjo5MDI2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",WEBSTAR QIFTELI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vcGxhdGludW14bWVkaWEueHl6OjgwODAvZ2VuaXB0dnNlcnZpY2UvNEVZUVljd01VNi85Mjg4OSIsImlkIjo5MDI3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",ZJARR TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3MTEiLCJpZCI6NDYyM30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",TV POLLOGU
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxNDg4JmV4dGVuc2lvbj10cyIsImlkIjo5MTQxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MUZIK🇦🇱",RTV ARBERIA 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMTk0JmV4dGVuc2lvbj10cyIsImlkIjo5MTQ1fQ%3D%3D/fast
 
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62632
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62633
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33532
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62634
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33533
-#EXTINF:-1   group-title="✳️ Live:Sport",|ALB| Super Sport 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62635
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33534
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62636
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33535
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport Kosova 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62655
-#EXTINF:-1  group-title="✳️ Live:Sport" ,|ALB| Super Sport News HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33531
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Supersonic TV
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33530
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 1
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62637
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 1 SD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62627
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62638
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 2 SD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62628
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62639
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 3 SD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62629
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 4
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62640
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 4 SD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62631
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 5
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62641
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 5 SD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62630
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| SuperSport 6 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62642
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 1 FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62643
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33505
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 2 FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62644
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33506
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 3 FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62645
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 3 FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33507
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 4 FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62646
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33508
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Tring Sport News
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33509
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| K SPORT 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62647
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| K SPORT 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33457
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| K SPORT 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62652
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Kujtesa Sport 2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62648
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Kujtesa Sport 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33458
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Kujtesa Sport 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62653
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Kujtesa Sport 3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62649
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Kujtesa Sport 4
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62650
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| Kujtesa Sport 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62651
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| ART Sport 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62656
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| ART Sport 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62657
-#EXTINF:-1  group-title="✳️ Live:Sport",|ALB| ART Sport 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/62658
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| ART SPORT 1 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156719
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| ART SPORT 2 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156720
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| ART SPORT 3 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156721
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| FIGHT BOX
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156736
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| KUJTESA SPORT 1
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156714
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| KUJTESA SPORT 2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156715
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| KUJTESA SPORT 3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156716
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| KUJTESA SPORT 4
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156717
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| KUJTESA SPORT 5
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156718
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| SUPER SPORT 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156708
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| SUPER SPORT 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156709
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| SUPER SPORT 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156710
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| SUPER SPORT 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156711
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| SUPER SPORT 5 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156712
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| SUPER SPORT 6 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156713
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| TRING SPORT 1 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156704
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| TRING SPORT 2 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156705
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| TRING SPORT 3 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156706
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| TRING SPORT 4 4K
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156735
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| TRING SPORT 4 HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156707
-#EXTINF:-1  group-title="✳️ Live:Sport",|AL| TRING SPORT NEWS
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/156703
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",8OVA GJURME SHQIPTARE TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTkzNzMzIiwiaWQiOjQzNjR9/fast
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",EXPLORER HISTORY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMzNiIsImlkIjo0NDQxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",EXPLORER NATYRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA0OCIsImlkIjo0NDQyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",EXPLORER SHKENCË
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTk2MSIsImlkIjo0NDQzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="T-Hist.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",TRING HISTORY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0NSIsImlkIjo0NTg4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",TRING PLANET
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0NCIsImlkIjo0NTkyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="TringWorld.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",TRING WORLD
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwMSIsImlkIjo0NjAyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="animal_rus" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",ANIMAL PLANET
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1NTgiLCJpZCI6NDM3OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",ART DOKU 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ2MDgwIiwiaWQiOjQzODN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",ART DOKU 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ2MDgxIiwiaWQiOjQzODR9/fast
+#EXTINF:0 tvg-id="discov_sci" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",DISCOVERY SCIENCE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTMwIiwiaWQiOjQ0MjV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",DOCU BOX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY3MDMzIiwiaWQiOjQ0Mjh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",DREAM WORKS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjc2NjcyIiwiaWQiOjQ0Mjl9/fast
+#EXTINF:0 tvg-id="id-extra" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",INVESTIGATION DISCOVERY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwNTEzIiwiaWQiOjQ0NzV9/fast
+#EXTINF:0 tvg-id="SkyLiving.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",LIVING
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA3MCIsImlkIjo0NDkzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",MUSE TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA3MiIsImlkIjo0NDk5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="natgeo" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",NAT GEO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjczNyIsImlkIjo0NTAxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="natgeowild" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",NAT GEO WILD
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3NTMiLCJpZCI6NDUwMn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",TEVE 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTI3IiwiaWQiOjQ1NzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",NETFLIX RELAKS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzI5JmV4dGVuc2lvbj10cyIsImlkIjo5MTUwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱DOKUMENTARE🇦🇱",KS HSTORI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjgzJmV4dGVuc2lvbj10cyIsImlkIjo5MTY0fQ%3D%3D/fast
 
+#EXTINF:0 tvg-id="baby-tv" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",BABY TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA0MCIsImlkIjo0Mzk4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="CufoTV.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",CUFO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMzOSIsImlkIjo0NDEzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="BangBang.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",BANG BANG
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0MiIsImlkIjo0Mzk5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="Sofia.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",SOFIA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1MzkiLCJpZCI6NDU1NX0%3D/fast
+#EXTINF:0 tvg-id="TipTv.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",TIP TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU3NCIsImlkIjo0NTc0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",SOLE TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1NDAiLCJpZCI6NDU1Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",TRING KIDS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDQ5NTIiLCJpZCI6NDU4OX0%3D/fast
+#EXTINF:0 tvg-id="TringTring.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",TRING TRING
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwMiIsImlkIjo0NjAxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="Junior.de" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",JUNIOR TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU2MCIsImlkIjo0NDc4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",MR BEAN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwNTExIiwiaWQiOjQ0OTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",PRINCE KIDS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDQ5NDkiLCJpZCI6NDUxN30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",RTSH FEMIJE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTE0NiIsImlkIjo0NTI1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",RTSH SHKOLLE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg1NiIsImlkIjo0NTM1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="boomerang" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",BOOMERANG
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0MSIsImlkIjo0NDA0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",DISNEY JUNIOR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDQ5NTkiLCJpZCI6NDQyNn0%3D/fast
+#EXTINF:0 tvg-id="jimjam" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",JIMJAM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTQ1ODcxIiwiaWQiOjQ0Nzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",KS FILMA24 ANIMACION
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vcGxhdGludW14bWVkaWEueHl6OjgwODAvZ2VuaXB0dnNlcnZpY2UvNEVZUVljd01VNi85MjkyNyIsImlkIjo5MDI4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",TOM & JERRY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1NDMiLCJpZCI6NDU3Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",WEBSTAR CHUCHU
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vcGxhdGludW14bWVkaWEueHl6OjgwODAvZ2VuaXB0dnNlcnZpY2UvNEVZUVljd01VNi85Mjg4MyIsImlkIjo5MDI5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",RTV ARBERIA 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzk1JmV4dGVuc2lvbj10cyIsImlkIjo5MTQ0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",NETFLIX FEMIJE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzI1JmV4dGVuc2lvbj10cyIsImlkIjo5MTU0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",KS KIDS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjg3JmV4dGVuc2lvbj10cyIsImlkIjo5MTYyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",GJOLLI FEMIJE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjI5JmV4dGVuc2lvbj10cyIsImlkIjo5MTY5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",ART PRINCE KIDS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5NzQiLCJpZCI6OTE3MX0%3D/fast
+#EXTINF:0 tvg-id="duck" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",DUCK TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5NzkiLCJpZCI6OTE3Mn0%3D/fast
+#EXTINF:0 tvg-id="jimjam" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",JIM JAM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5ODAiLCJpZCI6OTE3M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",SHAUN THE SHEEP
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5ODEiLCJpZCI6OTE3NH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",ZIG AND SHARKO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5ODIiLCJpZCI6OTE3NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",BOOBA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5ODMiLCJpZCI6OTE3Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",RABBIDS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5ODQiLCJpZCI6OTE3N30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FEMIJE🇦🇱",GRIZZY
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTU5ODUiLCJpZCI6OTE3OH0%3D/fast
 
-#EXTINF:-1  group-title="✳️ Live:Kinema Shqip",|AL| PIPO Play - Aksion FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185366
-#EXTINF:-1 group-title="✳️ Live:Kinema Shqip",|AL| PIPO Play - Best of FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185364
-#EXTINF:-1 group-title="✳️ Live:Pipo TV",|AL| PIPO play - Hits FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185362
-#EXTINF:-1  group-title="✳️ Live:Pipo TV" ,|AL| PIPO play - Horror+Komedi FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185369
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO play - Horror FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185368
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO play - Komedi HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185371
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO play - Netflix HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185365
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO play - Premium FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185361
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO play - Romance FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185370
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 1 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185373
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 2 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185374
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 3 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185375
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 4 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185376
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 5 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185377
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 6 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185378
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime 7 UHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185379
-#EXTINF:-1  group-title="✳️ Live:Pipo TV",|AL| PIPO Prime info HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185372
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",A2 CNN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxODU3IiwiaWQiOjQzNjl9/fast
+#EXTINF:0 tvg-id="ATV.tr" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",A TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTcxODkxIiwiaWQiOjQzNjh9/fast
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",ABC
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU1MSIsImlkIjo0MzcwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",ALBUK
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDAzNyIsImlkIjo0Mzc1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="euro" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",EURONEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY5ODM5IiwiaWQiOjQ0Mzh9/fast
+#EXTINF:0 tvg-id="FaxNews.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",FAX NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTEzNiIsImlkIjo0NDQ0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",KLAN NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2NTU0IiwiaWQiOjQ0ODV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",MCN TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg2Nzk4IiwiaWQiOjQ0OTV9/fast
+#EXTINF:0 tvg-id="OraNews.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",ORA NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTEyNiIsImlkIjo0NTA3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",REPORT TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDA3NyIsImlkIjo0NTE4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",ROZAFA NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjczMCIsImlkIjo0NTE5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",RTSH 24
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTk2MiIsImlkIjo0NTIzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",RTSH KUVEND
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjI0MzQiLCJpZCI6NDUzMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",SYRI NEWS TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDEwMCIsImlkIjo0NTY3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TopNews.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",TOP NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNTEyMiIsImlkIjo0NTc5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱LAJME🇦🇱",ZERI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvOTEwNjQiLCJpZCI6NDYyMn0%3D/fast
 
-#EXTINF:-1  group-title="✳️ Live:Muzik",|AL| KiKi Music - Top Hits HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/185408
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Music
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33449
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| My Music
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33468
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Turbo Channel
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33510
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Alb Folk
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33409
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Alb Hits
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33411
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Alb Music FHD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33410
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| BBF Music HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33414
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Elrodi TV
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33427
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Folk
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33442
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| MFM Musik
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33467
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| My Music
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33468
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| RTSH Muzike
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33488
-#EXTINF:-1  group-title="✳️ Live:Muzik",|ALB| Alb Action HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33408
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| RTV21 Popullore
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33480
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| Sky Music HD
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33527
-#EXTINF:-1 group-title="✳️ Live:Muzik",|ALB| STV Folk
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33522
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",8OVA HUMOR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjYzNzcyIiwiaWQiOjQzNjV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK CKA KA SHPIA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTIxIiwiaWQiOjQ0MTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK FARA E FLLIQT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjc4IiwiaWQiOjkwOTZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK FARA E FLLIQT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY2NDE2IiwiaWQiOjQ0MTZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK ISTAR SERIALI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjc5IiwiaWQiOjkwOTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK KAFENEJA JONE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg4MjY0IiwiaWQiOjQ0MTh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK SHPK NAZI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vY21zLW1lZHlhdHYubmV0OjgwODAvYWtpbmNpMi81Nzk4MDAzMzYxLzYxMjc3IiwiaWQiOjkwOTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",DARK STUPCAT SKEÇE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY2NTIwIiwiaWQiOjQ0MjF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",GAGS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTczNDk2IiwiaWQiOjQ0Njl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",WEBSTAR HUMOR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vcGxhdGludW14bWVkaWEueHl6OjgwODAvZ2VuaXB0dnNlcnZpY2UvNEVZUVljd01VNi85Mjg4NiIsImlkIjo5MDMwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",X HUMOR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY0MzciLCJpZCI6NDYxOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱HUMORE🇦🇱",KS HUMOR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjg2JmV4dGVuc2lvbj10cyIsImlkIjo5MTYzfQ%3D%3D/fast
 
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Explorer Histori
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33430
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Explorer Natyra
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33428
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Explorer Shkenc
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33429
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Sky Shkence
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33529
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Tring History
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33496
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Tring Planet
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33500
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Tring World
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33504
-#EXTINF:-1 group-title="✳️ Live:Dokumentar",|ALB| Turbo Channel
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/33510
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",ELKALEM TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk0NDQ1IiwiaWQiOjQ0MzF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",GJOLLI ISLAM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM3OTUiLCJpZCI6NDQ3MH0%3D/fast
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",PEACE TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU1NjIiLCJpZCI6NDUxMn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",RTV AHIRETI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxOTg3IiwiaWQiOjQ1Mzh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",RTV ALDI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgyMDA4IiwiaWQiOjQ1Mzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",RTV PENDIMI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxOTgyIiwiaWQiOjQ1NDR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",FILMA FETAR
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMTQ2JmV4dGVuc2lvbj10cyIsImlkIjo5MTQwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",TV ASHKALI ISLAM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxNDc1JmV4dGVuc2lvbj10cyIsImlkIjo5MTQyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",KURANI SHQIP
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzA0JmV4dGVuc2lvbj10cyIsImlkIjo5MTYwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",KURANI ARABISHT-SHQIP
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMzAzJmV4dGVuc2lvbj10cyIsImlkIjo5MTYxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",GJOLI KURAN
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjMxJmV4dGVuc2lvbj10cyIsImlkIjo5MTY3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",GJOLI ISLAM
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjMwJmV4dGVuc2lvbj10cyIsImlkIjo5MTY4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱FETARE🇦🇱",E-SAT ILAHI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vdGVjaG1lZGlhc29sdXRpb25zLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OToyODo5QzpCRSZzdHJlYW09ODYxMjAzJmV4dGVuc2lvbj10cyIsImlkIjo5MTcwfQ%3D%3D/fast
 
+#EXTINF:0 tvg-id="24Vesti.mk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",24 VESTI
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDI4MiIsImlkIjo1OTQ1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="alfatv.ba" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",ALFA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDI4MyIsImlkIjo1OTQ2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="AlJazeeraBalkans.hr" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",ALJAZEERA BALKANS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2NjI3IiwiaWQiOjU5NDd9/fast
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",CINEMAX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MzA3IiwiaWQiOjU5NDl9/fast
+#EXTINF:0 tvg-id="Cinemax2.ro" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",CINEMAX 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MzA4IiwiaWQiOjU5NTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",CINEPLEX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvODQ3NjgiLCJpZCI6NTk1MX0%3D/fast
+#EXTINF:0 tvg-id="CinestarPremiere1.hr" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",CINESTAR TV PREMIERE 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvODQ0MzAiLCJpZCI6NTk1Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",EDO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNjk3NjEiLCJpZCI6NTk1M30%3D/fast
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",FILMBOX EXTRA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MzE4IiwiaWQiOjU5NTR9/fast
+#EXTINF:0 tvg-id="FilmboxPlus.cz" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",FILMBOX STARS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjAxMDI1IiwiaWQiOjU5NTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",FOLK CLUB
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwMzU2IiwiaWQiOjU5NTZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",FOLK TB
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwMzU3IiwiaWQiOjU5NTd9/fast
+#EXTINF:0 tvg-id="fox-crime" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",FOX
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTkiLCJpZCI6NTk1OH0%3D/fast
+#EXTINF:0 tvg-id="fox-life" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",FOX LIFE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDc1MTYiLCJpZCI6NTk1OX0%3D/fast
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HBO
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjQwNTUiLCJpZCI6NTk2MH0%3D/fast
+#EXTINF:0 tvg-id="HBO2.cz" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HBO 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjQwNTciLCJpZCI6NTk2MX0%3D/fast
+#EXTINF:0 tvg-id="HBOComedy.cz" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HBO 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgxMzkiLCJpZCI6NTk2Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HUGO 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM0NzIiLCJpZCI6NTk2M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HUGO 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0ODgiLCJpZCI6NTk2NH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HUGO 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDc0ODgiLCJpZCI6NTk2NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HUGO 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjcyNDI0IiwiaWQiOjU5NjZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",HUGO 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjcyNDI1IiwiaWQiOjU5Njd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",INTV AVSTRALIJA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvODQ0MzIiLCJpZCI6NTk2OH0%3D/fast
+#EXTINF:0 tvg-id="Kanal5.se" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",KANAL 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDI3OSIsImlkIjo1OTY5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",KANAL 8
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDc1MTIiLCJpZCI6NTk3MH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MAKEDONSKI DOKUMENTARNI KANAL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY3NjU0IiwiaWQiOjU5NzJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MNET
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTg4IiwiaWQiOjU5NzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MNET KIDS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2Mzg1IiwiaWQiOjU5NzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MNET SPORT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2Mzg2IiwiaWQiOjU5NzV9/fast
+#EXTINF:0 tvg-id="MRT1.svn" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MRT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0ODMiLCJpZCI6NTk3Nn0%3D/fast
+#EXTINF:0 tvg-id="MTV2.mk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MRT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDI3NSIsImlkIjo1OTc3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MRT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjQwNjYiLCJpZCI6NTk3OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MRT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY2NDY4IiwiaWQiOjU5Nzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MRT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY2NDY5IiwiaWQiOjU5ODB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MRT SOBRANISKI KANAL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjY1Nzk0IiwiaWQiOjU5ODF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",MTM TELEVIZIJA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTU3MzYyIiwiaWQiOjU5ODJ9/fast
+#EXTINF:0 tvg-id="NASATV.us" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",NASA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0OTIiLCJpZCI6NTk4M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",OSIJECKA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg3NzY0IiwiaWQiOjU5ODR9/fast
+#EXTINF:0 tvg-id="publika" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",PUBLIKA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjgzOTg4IiwiaWQiOjU5ODV9/fast
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",RTL CRIME
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjg1NTMwIiwiaWQiOjU5ODZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",SITEL TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDI3NiIsImlkIjo1OTg3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",SKY FOLK TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0ODkiLCJpZCI6NTk4OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",STAR FOLK 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2NzQ5IiwiaWQiOjU5ODl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",STAR FOLK 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2NzQ4IiwiaWQiOjU5OTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",SUPER ESPORT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk2NzQ3IiwiaWQiOjU5OTF9/fast
+#EXTINF:0 tvg-id="Telma.mk" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",TELMA
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDI4NCIsImlkIjo1OTkyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",TERA TV
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjM0NzMiLCJpZCI6NTk5M30%3D/fast
+#EXTINF:0 tvg-id="travel" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",TRAVEL CHANNEL
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvODQ0MzkiLCJpZCI6NTk5NX0%3D/fast
+#EXTINF:0 tvg-id="tv1000" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",TV 1000
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDc1MDIiLCJpZCI6NTk5Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱MAQEDONI E VERIUT🇦🇱",TV SONCE
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTM0NzciLCJpZCI6NTk5OH0%3D/fast
 
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria /Redstadt 
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria / Kufstein 
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria / Südtirol
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Austria / Ebbs
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Kroacia / Rogoznica 
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Kroacia / Split
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Gjermania / Cologne
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Gjermania / Baden-Baden
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Franca / Paris
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Zvicer / Wengen
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
-#EXTINF:-1 group-title="✳️ Live:Kamera ne Bote",|ALB| Zvicer / Silvaplana
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uur3skaaq6fu29h6if6eosgci0
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjMxNDMiLCJpZCI6NDM4OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjMxNDYiLCJpZCI6NDM4OX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDAwNjEiLCJpZCI6NDM5MH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MjE2IiwiaWQiOjQzOTF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MjE1IiwiaWQiOjQzOTJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1MjE3IiwiaWQiOjQzOTN9/fast
+#EXTINF:0 tvg-id="esp" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",EUROSPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvNDUwNDciLCJpZCI6NDQzOX0%3D/fast
+#EXTINF:0 tvg-id="esp2" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",EUROSPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTY0NTQiLCJpZCI6NDQ0MH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",KUJTESA SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2MyIsImlkIjo0NDg4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",KUJTESA SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2NCIsImlkIjo0NDg5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",KUJTESA SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2NSIsImlkIjo0NDkwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",KUJTESA SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2NiIsImlkIjo0NDkxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",KUJTESA SPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTIwODIxIiwiaWQiOjQ0OTJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVERSPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwMjE4IiwiaWQiOjQ1MDh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVERSPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjk1NTE0IiwiaWQiOjQ1MDl9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVERSPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwNTM3IiwiaWQiOjQ1MTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVERSPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjkwNTM4IiwiaWQiOjQ1MTF9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",RTSH SPORT
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMjU2OCIsImlkIjo0NTM3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 1 NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMxMyIsImlkIjo0NTY2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMxMiIsImlkIjo0NTYwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMxOSIsImlkIjo0NTYxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMxOCIsImlkIjo0NTYyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2MCIsImlkIjo0NTYzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMzYzOCIsImlkIjo0NTY0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPERSPORT 7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTc0NDQxIiwiaWQiOjQ1NjV9/fast
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2MSIsImlkIjo0NTk5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TS1HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwNiIsImlkIjo0NTk1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TS2HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwNSIsImlkIjo0NTk2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TS3HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTMwNCIsImlkIjo0NTk3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TS4HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vaXB0dnRyZWUubmV0OjgwODAvSG91bmdzdDIwMDAxL1FFMDJBOFI4V1Y0WEhLM0IvMTg2MiIsImlkIjo0NTk4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMjUiLCJpZCI6OTA5OX0%3D/fast
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMjYiLCJpZCI6OTEwMH0%3D/fast
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMjciLCJpZCI6OTEwMX0%3D/fast
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMjgiLCJpZCI6OTEwMn0%3D/fast
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMjkiLCJpZCI6OTEwM30%3D/fast
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzAiLCJpZCI6OTEwNH0%3D/fast
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzEiLCJpZCI6OTEwNX0%3D/fast
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzIiLCJpZCI6OTEwNn0%3D/fast
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzMiLCJpZCI6OTEwN30%3D/fast
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzQiLCJpZCI6OTEwOH0%3D/fast
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzUiLCJpZCI6OTEwOX0%3D/fast
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzYiLCJpZCI6OTExMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzciLCJpZCI6OTExMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT 7
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxMzgiLCJpZCI6OTExMn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT KOSOVO 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTQ0ODE0IiwiaWQiOjkxMTN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",SUPER SPORT KOSOVO 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTQ0ODE1IiwiaWQiOjkxMTR9/fast
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDAiLCJpZCI6OTExNn0%3D/fast
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT NEWS
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDEiLCJpZCI6OTExN30%3D/fast
+#EXTINF:0 tvg-id="TS1HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDIiLCJpZCI6OTExOH0%3D/fast
+#EXTINF:0 tvg-id="TS2HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDMiLCJpZCI6OTExOX0%3D/fast
+#EXTINF:0 tvg-id="TS3HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDQiLCJpZCI6OTEyMH0%3D/fast
+#EXTINF:0 tvg-id="TS4HD.al" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",TRING SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDUiLCJpZCI6OTEyMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",K SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDciLCJpZCI6OTEyM30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",K SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDgiLCJpZCI6OTEyNH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",K SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNDkiLCJpZCI6OTEyNX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",K SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNTAiLCJpZCI6OTEyNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",K SPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNTEiLCJpZCI6OTEyN30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNTMiLCJpZCI6OTEyOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNTQiLCJpZCI6OTEzMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvOTYxNTUiLCJpZCI6OTEzMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjE2IiwiaWQiOjkxMzJ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 5
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjE3IiwiaWQiOjkxMzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",ART SPORT 6
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjE4IiwiaWQiOjkxMzR9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVER SPORT 1
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjE5IiwiaWQiOjkxMzZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVER SPORT 2
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjIwIiwiaWQiOjkxMzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVER SPORT 3
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjIxIiwiaWQiOjkxMzh9/fast
+#EXTINF:0 tvg-id="ext" group-title="🇦🇱F̳o̳r̳u̳m̳i̳-T̳e̳t̳o̳v̳a̳r̳ë̳🇦🇱SPORT🇦🇱",OVER SPORT 4
+http://xtream-ie.com/perqind/gratis/qeyJ1cmwiOiJodHRwOi8vc2Fuc2F0Lm5ldDoyNTQ2MS8wMjAyMzgxMDI4ODc1MS9DbnFJenZOWmJCRjF6VEEvMTY5NjIyIiwiaWQiOjkxMzl9/fast
 
-
-
-
-
-
-
-
-
+#
