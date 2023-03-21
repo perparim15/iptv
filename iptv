@@ -1,3 +1,271 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK HD" tvg-logo="" group-title="AL: ALBANIA",AL:Top Channel HD
-https://ingest.blackholecdn.cf:2083/TopChannel/video.m3u8?token=xQpu7neJKLYnu1&id=YXNsbGFuaWRhc2hhbWlyNDdAZ21haWwuY29t&ip=172.70.242.68&time=21:03:2023&14:48:37
+#EXTINF:-1,### ALBANIA AL ###
+http://viptv.me:80/blackkill/vg8u9xXi8g/33896
+#EXTINF:-1,AL: RTK 1 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55219
+#EXTINF:-1,AL: RTK 3 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55221
+#EXTINF:-1,AL: RTK 4 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55222
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55223
+#EXTINF:-1,AL: RTV 21 PLUS HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55224
+#EXTINF:-1,AL: RTV21 Popullore
+http://viptv.me:80/blackkill/vg8u9xXi8g/55225
+#EXTINF:-1,AL: RTV21 Pendimi HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55227
+#EXTINF:-1,AL: RTV21 Junior HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55228
+#EXTINF:-1,AL: RTV21 Maqedonia HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55229
+#EXTINF:-1,AL: KTV HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55230
+#EXTINF:-1,AL: Klan Plus HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55231
+#EXTINF:-1,AL: Klan Kosova HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55232
+#EXTINF:-1,AL: TOP Channel HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55233
+#EXTINF:-1,AL: Klan TV HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55234
+#EXTINF:-1,AL: RTSH 1 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55235
+#EXTINF:-1,AL: RTSH 2 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55236
+#EXTINF:-1,AL: RTSH Korca HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55237
+#EXTINF:-1,AL: RTSH Muzike HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55238
+#EXTINF:-1,AL: RTSH Plus HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55239
+#EXTINF:-1,AL: RTSH Shqip HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55240
+#EXTINF:-1,AL: RTSH Sports HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55241
+#EXTINF:-1,AL: RTSH Film HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55242
+#EXTINF:-1,Big Brother 1 FHD
+http://viptv.me:80/blackkill/vg8u9xXi8g/143612
+#EXTINF:-1,AL: Alsat M HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55243
+#EXTINF:-1,AL: VIZION PLUS HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55244
+#EXTINF:-1,AL: ERA TV HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55245
+#EXTINF:-1,AL: T7 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55247
+#EXTINF:-1,AL: Film Një HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55248
+#EXTINF:-1,AL: Film Dy HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55249
+#EXTINF:-1,AL: Film Hits HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55250
+#EXTINF:-1,AL: Film Aksion HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55251
+#EXTINF:-1,AL: Film Autor HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55252
+#EXTINF:-1,AL: Film Komedi HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55253
+#EXTINF:-1,AL: Film Drame HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55254
+#EXTINF:-1,AL: Film Thriller HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55255
+#EXTINF:-1,AL: Tring Action HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55256
+#EXTINF:-1,AL: Tring Histori HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55257
+#EXTINF:-1,AL: Tring Komedi HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55258
+#EXTINF:-1,AL: Tring Life HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55259
+#EXTINF:-1,AL: Tring Planet HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55260
+#EXTINF:-1,AL: Tring Shqip HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55261
+#EXTINF:-1,AL: Tring Fantasy HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55263
+#EXTINF:-1,AL: Tring World HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55264
+#EXTINF:-1,AL: Tring 3 Plus HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55265
+#EXTINF:-1,AL: Tring Max HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55266
+#EXTINF:-1,AL: Tring Smile HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55267
+#EXTINF:-1,AL: Tring Super HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55268
+#EXTINF:-1,AL: Tring Tring
+http://viptv.me:80/blackkill/vg8u9xXi8g/55269
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55271
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55272
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55273
+#EXTINF:-1,AL: FOX HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55274
+#EXTINF:-1,AL: Fox Crime HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55275
+#EXTINF:-1,AL: Fox Movie HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55276
+#EXTINF:-1,AL: Stinët HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55277
+#EXTINF:-1,AL: Tring Fantasy HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55280
+#EXTINF:-1,AL: Sky Drame HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55281
+#EXTINF:-1,AL: Sky History HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55282
+#EXTINF:-1,AL: Sky Komedi HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55283
+#EXTINF:-1,AL: Sky Max HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55284
+#EXTINF:-1,AL: ALB uk HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55285
+#EXTINF:-1,AL: Tring Kids HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55286
+#EXTINF:-1,AL: Pink Comedy HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55287
+#EXTINF:-1,AL: Explorer Histori HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55288
+#EXTINF:-1,AL: Explorer Natyra HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55289
+#EXTINF:-1,AL: Explorer Shkence HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55290
+#EXTINF:-1,AL: Living HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55291
+#EXTINF:-1,AL: Muse HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55292
+#EXTINF:-1,AL: Muse Tring HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55293
+#EXTINF:-1,AL: BBF Music HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55294
+#EXTINF:-1,AL: ABC News HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55297
+#EXTINF:-1,AL: Arta News HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55298
+#EXTINF:-1,AL: Baby HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55299
+#EXTINF:-1,AL: Bang Bang HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55300
+#EXTINF:-1,AL: Cufo HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55302
+#EXTINF:-1,AL: First Channel HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55304
+#EXTINF:-1,AL: Junior HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55305
+#EXTINF:-1,AL: Kanali 7 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55306
+#EXTINF:-1,AL: Nat Geographic HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55307
+#EXTINF:-1,AL: News 24 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55308
+#EXTINF:-1,AL: Peace HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55310
+#EXTINF:-1,AL: Smile HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55311
+#EXTINF:-1,AL: Syri Vizion HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55312
+#EXTINF:-1,AL: Tip HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55313
+#EXTINF:-1,AL: Top News HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55314
+#EXTINF:-1,AL: Arta HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55315
+#EXTINF:-1,AL: Besa HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55316
+#EXTINF:-1,AL: Mitrovica HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55318
+#EXTINF:-1,AL: Mitrovica HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55319
+#EXTINF:-1,AL: Opoja HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55320
+#EXTINF:-1,AL: Vizion Plus HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55321
+#EXTINF:-1,AL: RTSH 3 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55322
+#EXTINF:-1,AL: Zico HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55323
+#EXTINF:-1,AL: Folk HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55325
+#EXTINF:-1,AL: ALB Humor HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55326
+#EXTINF:-1,AL: ALB Music HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55327
+#EXTINF:-1,AL: Elrodi HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55328
+#EXTINF:-1,AL: Filmbox Arthouse HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55329
+#EXTINF:-1,AL: My Music HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55330
+#EXTINF:-1,AL: Ora news HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55331
+#EXTINF:-1,AL: Zjaar HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55334
+#EXTINF:-1,AL: Kujtesa Sport 2 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/55336
+#EXTINF:-1,AL: Discovery Channel
+http://viptv.me:80/blackkill/vg8u9xXi8g/56728
+#EXTINF:-1,AL: Sofia TV
+http://viptv.me:80/blackkill/vg8u9xXi8g/56729
+#EXTINF:-1,AL: RTV Fontana
+http://viptv.me:80/blackkill/vg8u9xXi8g/56731
+#EXTINF:-1,AL: Tirana TV
+http://viptv.me:80/blackkill/vg8u9xXi8g/56732
+#EXTINF:-1,AL: TOP Music
+http://viptv.me:80/blackkill/vg8u9xXi8g/56733
+#EXTINF:-1,AL: Turbo Channel
+http://viptv.me:80/blackkill/vg8u9xXi8g/56734
+#EXTINF:-1,AL: Top Estrada TV HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56735
+#EXTINF:-1,AL: Folklorit HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56737
+#EXTINF:-1,AL: STV Folk
+http://viptv.me:80/blackkill/vg8u9xXi8g/56738
+#EXTINF:-1,AL: Sky Novela
+http://viptv.me:80/blackkill/vg8u9xXi8g/56740
+#EXTINF:-1,AL: T HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56744
+#EXTINF:-1,AL: TV Koha
+http://viptv.me:80/blackkill/vg8u9xXi8g/56745
+#EXTINF:-1,AL: E! Entertainment
+http://viptv.me:80/blackkill/vg8u9xXi8g/56746
+#EXTINF:-1,AL: 24 Kitchen
+http://viptv.me:80/blackkill/vg8u9xXi8g/56747
+#EXTINF:-1,AL: Scan TV
+http://viptv.me:80/blackkill/vg8u9xXi8g/56748
+#EXTINF:-1,AL: Star Plus Shkoder
+http://viptv.me:80/blackkill/vg8u9xXi8g/56756
+#EXTINF:-1,AL: Dasma TV
+http://viptv.me:80/blackkill/vg8u9xXi8g/56760
+#EXTINF:-1,AL: Boomerang
+http://viptv.me:80/blackkill/vg8u9xXi8g/56766
+#EXTINF:-1,AL: Nickelodeon
+http://viptv.me:80/blackkill/vg8u9xXi8g/56773
+#EXTINF:-1,AL: Travel Channel HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56774
+#EXTINF:-1,AL: Animal Planet HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56775
+#EXTINF:-1,AL: Comedy Central Extra
+http://viptv.me:80/blackkill/vg8u9xXi8g/56776
+#EXTINF:-1,AL: Discovery Channel
+http://viptv.me:80/blackkill/vg8u9xXi8g/56778
+#EXTINF:-1,AL: Discovery Science HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56782
+#EXTINF:-1,AL: Discovery Turbo Xtra
+http://viptv.me:80/blackkill/vg8u9xXi8g/56783
+#EXTINF:-1,AL: X Premium 1 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56795
+#EXTINF:-1,AL: X Premium 2 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/56796
+#EXTINF:-1,AL: Super Sport 1 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/161887
+#EXTINF:-1,AL: Super Sport 2 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/161883
+#EXTINF:-1,AL: Super Sport 3 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/161886
+#EXTINF:-1,AL: Super Sport 5 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/161884
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://viptv.me:80/blackkill/vg8u9xXi8g/162291
